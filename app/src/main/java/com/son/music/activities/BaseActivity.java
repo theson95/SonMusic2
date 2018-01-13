@@ -48,7 +48,7 @@ import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 
 import static com.son.music.MusicPlayer.mService;
-
+//aaaaaa
 public class BaseActivity extends ATEActivity implements ServiceConnection, MusicStateListener {
 
     private final ArrayList<MusicStateListener> mMusicStateListener = new ArrayList<>();
